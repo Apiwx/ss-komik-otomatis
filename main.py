@@ -4,7 +4,7 @@ from PIL import Image, ImageStat
 import os, requests, time
 
 # --- Konfigurasi URL ---
-url = 'https://asuracomic.net/series/dungeon-architect-8704aab9/chapter/4'
+url = 'https://asuracomic.net/series/nano-machine-72ffa015/chapter/1'
 
 # --- Proses parsing URL jadi nama folder ---
 parts = url.strip("/").split("/")
